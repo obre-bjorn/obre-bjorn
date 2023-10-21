@@ -2,13 +2,13 @@
 
 
 <h1 align="center">Hello 👋, I'm Bjorn Paul</h1>
-<h3 align="center">A passionate fullstack from Kenya</h3>
+<h3 align="center">A passionate fullstack developer from Kenya</h3>
 <img  align="right" alt="Coding" width="400px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <be>
-- 🌱 I’m currently learning **React, Nodejs, Java,C,C++**
+- 🌱 I’m currently learning **React, Nodejs, Java, C, C++**
 
-- 💬 Ask me about **javascript,**
+- 💬 Ask me about **javascript**
 
 - 📫 How to reach me **obre.bjorn@gmail.com**
 
