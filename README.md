@@ -1,24 +1,7 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 
 
-<h1 align="center">Hello 👋, I'm Bjorn Paul</h1>
-
-<h2 align="center"> Software Developer 🚀 | Passionate about JavaScript 💻</h2>
-
-<h3> Welcome to my GitHub! I'm a dynamic and ambitious developer on a mission to bring your digital projects to life. Proficient in JavaScript and fueled by a relentless passion for coding. Whether you need web solutions, app development, or tech wizardry, I'm here to turn your ideas into reality. Let's collaborate and make your digital dreams a vibrant, interactive, and seamless experience. 🌟</h3>
-
 <img  align="right" alt="Coding" width="400px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
-
-
-  
-- 🌱 I’m currently learning **React, Nodejs, Java, C, C++**
-
-- 💬 Ask me about: **javascript**
-
-- 📫 How to reach me: **obre.bjorn@gmail.com**
-
-
-
 
 
 <h3 align="left">Connect with me:</h3>
